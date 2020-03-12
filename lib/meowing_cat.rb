@@ -8,9 +8,9 @@ class Cat
     end
 
     def meow
-    
-        puts @sound
-
+      puts @sound
     end 
+    
 end
+
 
